@@ -64,6 +64,7 @@ ul{
     background-image: url(../assets/images/pexels-pixabay-373543.jpg);
     
 }
+/*estilos para imgenes*/
 .flex{
     display: flex;
     text-align: center;
@@ -96,6 +97,7 @@ main section{
     padding: 0px;
    
 }
+/*colores y tamaños para el footer*/
 footer{
     
   
